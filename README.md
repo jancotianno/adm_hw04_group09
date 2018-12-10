@@ -15,7 +15,7 @@ Repository files description
 
 Main file with the work explanation to perform the analisys.
 
-`information.csv`
+`informations.csv`
 
 This csv file has as rows all the announcements and as colums Prezzo, Locali, Superficie, Bagni e Piano. 
 
