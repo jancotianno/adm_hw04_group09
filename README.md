@@ -18,5 +18,7 @@ Main file with the work explanation to perform the analisys.
 `information.csv`
 ... 
 
+`wordcloud.png`
 
+Word Cloud imagine
 
