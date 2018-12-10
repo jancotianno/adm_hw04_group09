@@ -1,5 +1,5 @@
 # Algorithmic Methods for Data Mining - Homework 4
-##### Group #09 - Giulia Scialanga, 
+##### Group #09 - Giulia Scialanga, Theodoros Sofianos, Matteo Zmyslowski
 ##### 10/12/2018
 
 # 1) Does basic house information reflect house's description?
@@ -16,7 +16,12 @@ Repository files description
 Main file with the work explanation to perform the analisys.
 
 `information.csv`
-... 
+
+This csv file has as rows all the announcements and as colums Prezzo, Locali, Superficie, Bagni e Piano. 
+
+`information.csv`
+
+
 
 `wordcloud.png`
 
