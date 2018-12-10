@@ -21,8 +21,7 @@ This csv file has as rows all the announcements and as colums Prezzo, Locali, Su
 
 `des_means.txt`
 
-
-
+This txt file contains the Kmeans values calculated for the descriptions. 
 
 `wordcloud.png`
 
