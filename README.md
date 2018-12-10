@@ -19,7 +19,8 @@ Main file with the work explanation to perform the analisys.
 
 This csv file has as rows all the announcements and as colums Prezzo, Locali, Superficie, Bagni e Piano. 
 
-`information.csv`
+`des_means.txt`
+
 
 
 
