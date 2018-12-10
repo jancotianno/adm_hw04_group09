@@ -20,5 +20,5 @@ Main file with the work explanation to perform the analisys.
 
 `wordcloud.png`
 
-Word Cloud imagine
+Word Cloud image
 
